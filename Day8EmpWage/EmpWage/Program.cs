@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
 
-            DailyWage dailywage = new DailyWage();
-            dailywage.Wage();
+            Emp emp = new Emp();
+            emp.Wage();
         }
     }
 }
